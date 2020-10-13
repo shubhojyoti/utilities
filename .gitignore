@@ -1,0 +1,16 @@
+npm_modules
+node_modules
+bower_components
+trash
+yarn-error.log
+Error.log
+.DS_Store
+.sass-cache
+.tmp
+.rvmrc
+.trashes
+.vscode
+.idea
+trade
+sample_wireframes
+*~
